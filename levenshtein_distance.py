@@ -8,7 +8,7 @@ Original file is located at
 
 Lavenshtein distance implementaiton can be found anywhere on the web.
 And that implementation would be really easy.
-I see a very nieve approch with lesser time complexity to get the desier result, hence implemented this way.
+I see a very nieve approch with better time complexity to get the desired result, hence implemented this way.
 """
 
 import pandas as pd
